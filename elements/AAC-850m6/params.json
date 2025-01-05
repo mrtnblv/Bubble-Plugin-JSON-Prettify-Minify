@@ -1,0 +1,29 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "JSON Prettify",
+    "fields": {
+        "AAD": {
+            "caption": "jsonString",
+            "editor": "DynamicValue",
+            "name": "jsonstring",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-social-javascript",
+    "states": {
+        "AAE": {
+            "caption": "prettyJSON",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "prettyjson",
+            "value": "text"
+        }
+    }
+}
