@@ -7,7 +7,7 @@
     },
     "data_tracked": false,
     "description": "Easily transform your JSON data. Whether you need to prettify your JSON for readability or minify it for optimized storage and transmission, this plugin has you covered.\n\n- Prettify JSON: Format your JSON with clear indentation.\n- Minify JSON: Compress your JSON by removing unnecessary spaces and line breaks.",
-    "image": "//meta-q.cdn.bubble.io/f1722196877821x690846598584379500/SCR-20240728-taxx.png",
+    "image": "//meta-q.cdn.bubble.io/f1736592745720x806689291296877300/image%20%2811%29.png",
     "license": "open_source",
     "name": "JSON Prettify & Minify"
 }
